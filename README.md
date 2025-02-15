@@ -4,7 +4,7 @@ RecipeBook is a ios, desktop, android application designed to help users discove
 
 ## Technical Requirements
 Programming Language:  Kotlin + jetpackCompose using KMP, MVVM architecture 
-API: using Ktor for API calls to fetch recipe data.
+API: using Ktor for API calls to fetch recipe data 
 Design: Material Design used in this KMP-project
 Images: coil for images loading
 
